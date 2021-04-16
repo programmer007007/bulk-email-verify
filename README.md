@@ -1,5 +1,5 @@
 # free bulk email verify
-This code is written in perl language 
+This code is written in perl language | Used on website  https://everify.ricomart.com/ 
 
 How to run this code ?
 First you need to have a software called as strawberry perl which you can download from https://strawberryperl.com/
@@ -26,3 +26,5 @@ Make sure you keep all your email under a file called putemail.txt and all the g
 
 More info on the above code can be found under
 https://blog.ricomart.com/everything-you-need-to-know-about-bulk-email-verification/
+
+

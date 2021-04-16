@@ -15,7 +15,7 @@ cpan install Parallel::ForkManager <br>
 cpan install List::Util <br>
 cpan install Mail::CheckUser <br>
 
-All all the support files are installed now you can good to run the code with command 
+All all the support files are installed now you are good to run the give code with the below given command 
 
 perl verify.pl
 

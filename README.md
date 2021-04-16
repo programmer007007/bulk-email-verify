@@ -22,7 +22,7 @@ perl verify.pl
 Make sure you keep all your email under a file called putemail.txt and all the good email will be paste to new file called good_Email.txt
 
 
-![alt Free-Bulk-Email-Verification](../Screenshot.jpg)
+![Screenshot](Screenshot.jpg)
 
 More info on the above code can be found under
 https://blog.ricomart.com/everything-you-need-to-know-about-bulk-email-verification/
